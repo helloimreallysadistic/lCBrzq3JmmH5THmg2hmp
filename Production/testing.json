@@ -1,0 +1,18 @@
+{
+  "list": [
+    {
+      "header": "Wallpaper of the Day",
+      "name": "Aether",
+      "thumbUrl": "https://raw.githubusercontent.com/helloimreallysadistic/lCBrzq3JmmH5THmg2hmp/woah/Production/Flow/thumb/Aether_thumb.jpg",
+      "collection": "Flow",
+      "author": "Lor and Company",
+      "isWallpaper": true
+    },
+    {
+      "name": "Flow",
+      "thumbUrl": "https://raw.githubusercontent.com/helloimreallysadistic/lCBrzq3JmmH5THmg2hmp/woah/Production/Flow/thumb/Aether_thumb.jpg",
+      "isWallpaper": false,
+      "description": "\"A collection that revolves around smooth and flowing gradients."
+    }
+  ]
+}
