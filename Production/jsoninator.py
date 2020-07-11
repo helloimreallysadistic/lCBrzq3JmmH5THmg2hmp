@@ -31,4 +31,4 @@ for dir in os.listdir():
                         })
 
 with open('coordinator.json', "w") as f:
-    f.write(json.dumps(js))
+    f.write(json.dumps(js, indent=4, sort_keys=True))
