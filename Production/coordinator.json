@@ -5,6 +5,39 @@
         "copyright": "Personal Use, Credits Required",
         "dimensions": "2000x4000 px",
         "downloadable": true,
+        "name": "Balcony",
+        "size": 333745,
+        "thumbnail": "https://raw.githubusercontent.com/helloimreallysadistic/lCBrzq3JmmH5THmg2hmp/woah/Production/Arch/thumb/Balcony_thumb.jpg",
+        "url": "https://raw.githubusercontent.com/helloimreallysadistic/lCBrzq3JmmH5THmg2hmp/woah/Production/Arch/Balcony.png"
+    },
+    {
+        "author": "Lor and Company",
+        "collections": "Arch",
+        "copyright": "Personal Use, Credits Required",
+        "dimensions": "2000x4000 px",
+        "downloadable": true,
+        "name": "Bow",
+        "size": 260885,
+        "thumbnail": "https://raw.githubusercontent.com/helloimreallysadistic/lCBrzq3JmmH5THmg2hmp/woah/Production/Arch/thumb/Bow_thumb.jpg",
+        "url": "https://raw.githubusercontent.com/helloimreallysadistic/lCBrzq3JmmH5THmg2hmp/woah/Production/Arch/Bow.png"
+    },
+    {
+        "author": "Lor and Company",
+        "collections": "Arch",
+        "copyright": "Personal Use, Credits Required",
+        "dimensions": "2000x4000 px",
+        "downloadable": true,
+        "name": "Brick",
+        "size": 112614,
+        "thumbnail": "https://raw.githubusercontent.com/helloimreallysadistic/lCBrzq3JmmH5THmg2hmp/woah/Production/Arch/thumb/Brick_thumb.jpg",
+        "url": "https://raw.githubusercontent.com/helloimreallysadistic/lCBrzq3JmmH5THmg2hmp/woah/Production/Arch/Brick.png"
+    },
+    {
+        "author": "Lor and Company",
+        "collections": "Arch",
+        "copyright": "Personal Use, Credits Required",
+        "dimensions": "2000x4000 px",
+        "downloadable": true,
         "name": "Cubic",
         "size": 64768,
         "thumbnail": "https://raw.githubusercontent.com/helloimreallysadistic/lCBrzq3JmmH5THmg2hmp/woah/Production/Arch/thumb/Cubic_thumb.jpg",
@@ -126,10 +159,32 @@
         "copyright": "Personal Use, Credits Required",
         "dimensions": "2000x4000 px",
         "downloadable": true,
+        "name": "Rose",
+        "size": 204919,
+        "thumbnail": "https://raw.githubusercontent.com/helloimreallysadistic/lCBrzq3JmmH5THmg2hmp/woah/Production/Arch/thumb/Rose_thumb.jpg",
+        "url": "https://raw.githubusercontent.com/helloimreallysadistic/lCBrzq3JmmH5THmg2hmp/woah/Production/Arch/Rose.png"
+    },
+    {
+        "author": "Lor and Company",
+        "collections": "Arch",
+        "copyright": "Personal Use, Credits Required",
+        "dimensions": "2000x4000 px",
+        "downloadable": true,
         "name": "Scale",
         "size": 59848,
         "thumbnail": "https://raw.githubusercontent.com/helloimreallysadistic/lCBrzq3JmmH5THmg2hmp/woah/Production/Arch/thumb/Scale_thumb.jpg",
         "url": "https://raw.githubusercontent.com/helloimreallysadistic/lCBrzq3JmmH5THmg2hmp/woah/Production/Arch/Scale.png"
+    },
+    {
+        "author": "Lor and Company",
+        "collections": "Arch",
+        "copyright": "Personal Use, Credits Required",
+        "dimensions": "2000x4000 px",
+        "downloadable": true,
+        "name": "Shade",
+        "size": 91939,
+        "thumbnail": "https://raw.githubusercontent.com/helloimreallysadistic/lCBrzq3JmmH5THmg2hmp/woah/Production/Arch/thumb/Shade_thumb.jpg",
+        "url": "https://raw.githubusercontent.com/helloimreallysadistic/lCBrzq3JmmH5THmg2hmp/woah/Production/Arch/Shade.png"
     },
     {
         "author": "Lor and Company",
