@@ -2,6 +2,7 @@ import os
 from PIL import Image
 import json
 from stat import S_ISREG, ST_CTIME, ST_MODE
+from pathlib import Path
 
 rootdir = os.path.dirname(os.path.realpath(__file__))
 author = 'Lor and Company'
@@ -13,15 +14,21 @@ print(os.listdir())
 
 js = []
 
-for dir in os.listdir():
+paths = sorted(Path(rootdir).iterdir(), key=os.path.getmtime)
+paths.reverse()
+print(paths)
+for dir in paths:
+    dir = dir.__str__()
     if os.path.isdir(dir):
-        items = os.listdir(os.path.join(rootdir, dir))
-        sortie = [(os.stat(os.path.join(rootdir, dir , item)), os.path.join(rootdir, dir , item), item) for item in items]
+        print(dir)
+        items = os.listdir(dir)
+        sortie = [(os.stat(os.path.join(dir , item)), os.path.join(dir , item), item) for item in items]
         entries = [(stat[ST_CTIME], path, name) for stat, path, name in sortie if S_ISREG(stat[ST_MODE])]
         a = sorted(entries, key=lambda entry: entry[0])
         a.reverse()
         for file in a:
             if os.path.isfile(file[1]):
+                print(file)
                 im = Image.open(file[1])
                 js.append({
                         "name": file[2].split('.')[0],
