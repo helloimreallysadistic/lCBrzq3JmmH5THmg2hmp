@@ -26,6 +26,7 @@ for dir in paths:
         entries = [(stat[ST_CTIME], path, name) for stat, path, name in sortie if S_ISREG(stat[ST_MODE])]
         a = sorted(entries, key=lambda entry: entry[0])
         a.reverse()
+        dir = dir.split("\\")[-1]
         for file in a:
             if os.path.isfile(file[1]):
                 print(file)
