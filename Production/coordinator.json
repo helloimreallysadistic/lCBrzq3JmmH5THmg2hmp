@@ -5,32 +5,21 @@
         "copyright": "Personal Use, Credits Required",
         "dimensions": "2000x4000 px",
         "downloadable": true,
-        "name": "Azure",
-        "size": 11580679,
-        "thumbnail": "https://raw.githubusercontent.com/helloimreallysadistic/lCBrzq3JmmH5THmg2hmp/woah/Production/Flow/thumb/Azure_thumb.jpg",
-        "url": "https://raw.githubusercontent.com/helloimreallysadistic/lCBrzq3JmmH5THmg2hmp/woah/Production/Flow/Azure.png"
-    },
-    {
-        "author": "Lor and Company",
-        "collections": "Flow",
-        "copyright": "Personal Use, Credits Required",
-        "dimensions": "2000x4000 px",
-        "downloadable": true,
-        "name": "Navy",
-        "size": 9228130,
-        "thumbnail": "https://raw.githubusercontent.com/helloimreallysadistic/lCBrzq3JmmH5THmg2hmp/woah/Production/Flow/thumb/Navy_thumb.jpg",
-        "url": "https://raw.githubusercontent.com/helloimreallysadistic/lCBrzq3JmmH5THmg2hmp/woah/Production/Flow/Navy.png"
-    },
-    {
-        "author": "Lor and Company",
-        "collections": "Flow",
-        "copyright": "Personal Use, Credits Required",
-        "dimensions": "2000x4000 px",
-        "downloadable": true,
         "name": "Charcoal",
-        "size": 7504181,
+        "size": 182785,
         "thumbnail": "https://raw.githubusercontent.com/helloimreallysadistic/lCBrzq3JmmH5THmg2hmp/woah/Production/Flow/thumb/Charcoal_thumb.jpg",
-        "url": "https://raw.githubusercontent.com/helloimreallysadistic/lCBrzq3JmmH5THmg2hmp/woah/Production/Flow/Charcoal.png"
+        "url": "https://raw.githubusercontent.com/helloimreallysadistic/lCBrzq3JmmH5THmg2hmp/woah/Production/Flow/Charcoal.jpg"
+    },
+    {
+        "author": "Lor and Company",
+        "collections": "Flow",
+        "copyright": "Personal Use, Credits Required",
+        "dimensions": "2000x4000 px",
+        "downloadable": true,
+        "name": "Azure",
+        "size": 825834,
+        "thumbnail": "https://raw.githubusercontent.com/helloimreallysadistic/lCBrzq3JmmH5THmg2hmp/woah/Production/Flow/thumb/Azure_thumb.jpg",
+        "url": "https://raw.githubusercontent.com/helloimreallysadistic/lCBrzq3JmmH5THmg2hmp/woah/Production/Flow/Azure.jpg"
     },
     {
         "author": "Lor and Company",
@@ -39,9 +28,20 @@
         "dimensions": "2000x4000 px",
         "downloadable": true,
         "name": "Seawolf",
-        "size": 8664543,
+        "size": 386833,
         "thumbnail": "https://raw.githubusercontent.com/helloimreallysadistic/lCBrzq3JmmH5THmg2hmp/woah/Production/Flow/thumb/Seawolf_thumb.jpg",
-        "url": "https://raw.githubusercontent.com/helloimreallysadistic/lCBrzq3JmmH5THmg2hmp/woah/Production/Flow/Seawolf.png"
+        "url": "https://raw.githubusercontent.com/helloimreallysadistic/lCBrzq3JmmH5THmg2hmp/woah/Production/Flow/Seawolf.jpg"
+    },
+    {
+        "author": "Lor and Company",
+        "collections": "Flow",
+        "copyright": "Personal Use, Credits Required",
+        "dimensions": "2000x4000 px",
+        "downloadable": true,
+        "name": "Navy",
+        "size": 509564,
+        "thumbnail": "https://raw.githubusercontent.com/helloimreallysadistic/lCBrzq3JmmH5THmg2hmp/woah/Production/Flow/thumb/Navy_thumb.jpg",
+        "url": "https://raw.githubusercontent.com/helloimreallysadistic/lCBrzq3JmmH5THmg2hmp/woah/Production/Flow/Navy.jpg"
     },
     {
         "author": "Lor and Company",
@@ -50,9 +50,20 @@
         "dimensions": "2000x4000 px",
         "downloadable": true,
         "name": "Lilac",
-        "size": 9823341,
+        "size": 761638,
         "thumbnail": "https://raw.githubusercontent.com/helloimreallysadistic/lCBrzq3JmmH5THmg2hmp/woah/Production/Flow/thumb/Lilac_thumb.jpg",
-        "url": "https://raw.githubusercontent.com/helloimreallysadistic/lCBrzq3JmmH5THmg2hmp/woah/Production/Flow/Lilac.png"
+        "url": "https://raw.githubusercontent.com/helloimreallysadistic/lCBrzq3JmmH5THmg2hmp/woah/Production/Flow/Lilac.jpg"
+    },
+    {
+        "author": "Lor and Company",
+        "collections": "Flow",
+        "copyright": "Personal Use, Credits Required",
+        "dimensions": "2000x4000 px",
+        "downloadable": true,
+        "name": "Horizon",
+        "size": 978014,
+        "thumbnail": "https://raw.githubusercontent.com/helloimreallysadistic/lCBrzq3JmmH5THmg2hmp/woah/Production/Flow/thumb/Horizon_thumb.jpg",
+        "url": "https://raw.githubusercontent.com/helloimreallysadistic/lCBrzq3JmmH5THmg2hmp/woah/Production/Flow/Horizon.jpg"
     },
     {
         "author": "Lor and Company",
@@ -339,17 +350,6 @@
         "size": 970942,
         "thumbnail": "https://raw.githubusercontent.com/helloimreallysadistic/lCBrzq3JmmH5THmg2hmp/woah/Production/Flow/thumb/Interstellar_thumb.jpg",
         "url": "https://raw.githubusercontent.com/helloimreallysadistic/lCBrzq3JmmH5THmg2hmp/woah/Production/Flow/Interstellar.png"
-    },
-    {
-        "author": "Lor and Company",
-        "collections": "Flow",
-        "copyright": "Personal Use, Credits Required",
-        "dimensions": "2000x4000 px",
-        "downloadable": true,
-        "name": "Horizon",
-        "size": 7563411,
-        "thumbnail": "https://raw.githubusercontent.com/helloimreallysadistic/lCBrzq3JmmH5THmg2hmp/woah/Production/Flow/thumb/Horizon_thumb.jpg",
-        "url": "https://raw.githubusercontent.com/helloimreallysadistic/lCBrzq3JmmH5THmg2hmp/woah/Production/Flow/Horizon.png"
     },
     {
         "author": "Lor and Company",
