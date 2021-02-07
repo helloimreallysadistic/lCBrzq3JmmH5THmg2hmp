@@ -32,6 +32,7 @@ for dir in paths:
                 print(file)
                 im = Image.open(file[1])
                 js.append({
+                        "creationtime" : file[0],
                         "name": file[2].split('.')[0],
                         "author": author,
                         "url": '/'.join([baselink,dir,file[2]]),
@@ -43,5 +44,8 @@ for dir in paths:
                         "copyright": cr
                         })
 
-with open('coordinator.json', "w") as f:
+final = sorted(js, key=lambda l: l['creationtime'])
+final.reverse()
+
+with open('coordinatorbeta.json', "w") as f:
     f.write(json.dumps(js, indent=4, sort_keys=True))
