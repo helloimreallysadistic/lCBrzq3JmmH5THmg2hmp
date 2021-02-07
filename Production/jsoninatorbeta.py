@@ -47,5 +47,5 @@ for dir in paths:
 final = sorted(js, key=lambda l: l['creationtime'])
 final.reverse()
 
-with open('coordinatorbeta.json', "w") as f:
-    f.write(json.dumps(js, indent=4, sort_keys=True))
+with open('coordinatorbeta123.json', "w") as f:
+    f.write(json.dumps(final, indent=4, sort_keys=True))
