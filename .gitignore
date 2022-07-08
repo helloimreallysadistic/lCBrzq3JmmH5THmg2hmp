@@ -1,2 +1,6 @@
-
+Production/blur/*
 Early Access/Thumbs.db
+*.py
+Production/*.*
+Early Access
+Production/json
