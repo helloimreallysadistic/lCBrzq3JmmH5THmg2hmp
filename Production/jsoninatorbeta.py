@@ -18,9 +18,13 @@ paths = sorted(Path(rootdir).iterdir(), key=os.path.getmtime)
 paths.reverse()
 print(paths)
 for dir in paths:
+    actualdir = dir
     dir = dir.__str__()
     if os.path.isdir(dir):
         print(dir)
+        if dir == "C:\\Users\\Metallic Semicolon\\Documents\\GitHub\\lCBrzq3JmmH5THmg2hmp\\Production\\blur":
+            print("FUCKKKKK")
+            continue
         items = os.listdir(dir)
         sortie = [(os.stat(os.path.join(dir , item)), os.path.join(dir , item), item) for item in items]
         entries = [(stat[ST_CTIME], path, name) for stat, path, name in sortie if S_ISREG(stat[ST_MODE])]
